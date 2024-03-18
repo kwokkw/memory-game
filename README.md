@@ -1,43 +1,28 @@
-# Springboard
+# Springboard - Memory Game
 
 ## Table of contents
 
-- [Springboard](#springboard)
+- [Springboard - Memory Game](#springboard---memory-game)
   - [Table of contents](#table-of-contents)
   - [Overview](#overview)
     - [The challenge](#the-challenge)
-  - [My process](#my-process)
     - [Built with](#built-with)
     - [What I learned](#what-i-learned)
-    - [Continued development](#continued-development)
-    - [Useful resources](#useful-resources)
-  - [Author](#author)
-  - [Acknowledgments](#acknowledgments)
-  - [Time estimate](#time-estimate)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
+- Use DOM manipulation and timers to build a sophisticated browser-based memory game.
+  
 ### The challenge
 
-## My process
+- Users should only be able to change at most two cards at a time.
 
 ### Built with
 
-- Semantic and landmarks HTML5 markup
-- DOM
-- event listerers
-- localStorage
-  
+- 10 div of card 
+- Game should know how to handle matched and unmatched cards
+- Game should flip the two none identical cards are clicked. 
+
 ### What I learned
 
-### Continued development
-
-### Useful resources
-
-## Author
-
-## Acknowledgments
-
-## Time estimate 
+-   Arrow function
